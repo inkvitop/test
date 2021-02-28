@@ -1,5 +1,7 @@
 # Pavel Popov #
 
+![Profile photo](//github.com/inkvitop/test/blob/cv-markdown/Pavel_photo2.jpg)
+
 ## Contacts: ##
 - e-mail: inkvitop@gmail.com
 - Mobile: +375(29)852-03-37
