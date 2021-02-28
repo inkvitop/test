@@ -1,9 +1,9 @@
 # Pavel Popov #
 
 ## Contacts: ##
-e-mail: inkvitop@gmail.com
-Mobile: +375(29)852-03-37
-[Linked-in](https://www.linkedin.com/in/pavelpopovs/)
+- e-mail: inkvitop@gmail.com
+- Mobile: +375(29)852-03-37
+- [Linked-in](https://www.linkedin.com/in/pavelpopovs/)
 
 ## Objective: Junior Front-end Developer ##
 
