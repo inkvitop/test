@@ -13,11 +13,11 @@
 - Operating system: **Windows**
 
 ## Experience: ##
-### EPAM System ###
+- ### EPAM System ###
 2020.08-2020.12
 Junior Software Test Engineer
 
-### Second national TV channel ###
+- ### Second national TV channel ###
 2017-2020
 Sound service for live television broadcast, concerts. Field sound recording. Videographer on live broadcasts.
 
