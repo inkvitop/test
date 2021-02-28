@@ -1,6 +1,6 @@
 # Pavel Popov #
 
-![Profile photo](//github.com/inkvitop/test/blob/cv-markdown/Pavel_photo2.jpg)
+![Profile photo](//raw.githubusercontent.com/inkvitop/test/cv-markdown/Pavel_photo2.jpg)
 
 ## Contacts: ##
 - e-mail: inkvitop@gmail.com
