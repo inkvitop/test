@@ -8,9 +8,9 @@ Mobile: +375(29)852-03-37
 ## Objective: Junior Front-end Developer ##
 
 ## Technical skills: ##
-- Programming language: JavaScript
-- Development tools: VSCode
-- Operating system: Windows
+- Programming language: **JavaScript**
+- Development tools: **VSCode**
+- Operating system: **Windows**
 
 ## Experience: ##
 ### UpSkill Lab projects ###
